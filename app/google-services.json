@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762095423510",
+    "firebase_url": "https://emergenciagreen.firebaseio.com",
+    "project_id": "emergenciagreen",
+    "storage_bucket": "emergenciagreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762095423510:android:f06876fa767ddc5b",
+        "android_client_info": {
+          "package_name": "com.example.emergnecygg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762095423510-2eitc9od0posm183cj29meah8g8avrl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emergnecygg",
+            "certificate_hash": "fb42b7f3174bbee2e5546d9ace7cf6eed6b21a32"
+          }
+        },
+        {
+          "client_id": "762095423510-4togegb397ner3cl6rfkdaenan625e7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLo8ghpYAtStu-Emr1t8hF68ZIyb1KZvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762095423510-4togegb397ner3cl6rfkdaenan625e7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
